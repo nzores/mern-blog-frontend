@@ -1,1 +1,8 @@
-
+- npm i ws
+- npm i mongoose
+- npm i jsonwebtoken // и прописываем: (import jwt from 'jsonwebtoken')
+- npm i express-validator
+- npm i bcrypt
+- npm i multer
+- npm i cors
+- npm install react-markdown
